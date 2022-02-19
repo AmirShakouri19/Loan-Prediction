@@ -7,6 +7,8 @@ The aim of this project is to develope an application for automating loan approv
 
 Prior to developing the model, several exploratory data analyses are performed which can be found in "EDA" notebook. Key characteristics of the data are being skewed and imbalanced. Some data transformation are done to fix these issues:
 
+<img src="/Images/Image1.png" width=300 height=300>
+
 Also, new features are engineered to better represent the data:
 
 Finally, the modeling pipeline are built using RandomForest. The model is then tested, optimised using GridSearchCV and deployed by cloudpickling. You can find the modeling part on the "Coding" notebook.
