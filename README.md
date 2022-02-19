@@ -9,4 +9,6 @@ Prior to developing the model, several exploratory data analyses are performed w
 
 Also, new features are engineered to better represent the data:
 
-Finally, the modeling pipeline are built using RandomForest. The model is then tested, optimised using GridSearchCV and deployed by cloudpickling. You can find the modeling part on the "Coding" notebook  
+Finally, the modeling pipeline are built using RandomForest. The model is then tested, optimised using GridSearchCV and deployed by cloudpickling. You can find the modeling part on the "Coding" notebook.
+
+Interested or have questions? Please don't hesitate to comment here or contact me. Also, feel free to fork and contribute to the project...
