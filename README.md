@@ -17,6 +17,6 @@ Key characteristics of the data are being skewed and imbalanced. Some feature en
 
 Finally, the modeling pipeline are built using RandomForest. The model is then tested, optimised using GridSearchCV and deployed by cloudpickling. You can find the modeling part on the "Main" notebook. Also, the "Deployed_Model" folder includes the app and the pickled model. This is the final precision that I have achieved and am working to improve it:
 
-<img src="/Images/Image1.png">  <img src="/Images/Image5.png">
+<img src="/Images/Image5.png">
 
 Interested or have questions? Please don't hesitate to comment here or contact me. Also, feel free to fork and contribute to the project...
