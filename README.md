@@ -19,4 +19,5 @@ Finally, the modeling pipeline are built using RandomForest. The model is then t
 
 <img src="/Images/Image5.png">
 
+You can find the dataset address in EDA notebook and follow the modeling steps.
 Interested or have questions? Please don't hesitate to comment here or contact me. Also, feel free to fork and contribute to the project...
