@@ -7,7 +7,7 @@ The aim of this project is to develope an application for automating loan approv
 
 Prior to developing the model, several exploratory data analyses are performed which can be found in "EDA" notebook, e.g.:
 
-<img src="/Images/Image3.png">  <img src="/Images/Image4.png">
+<img src="/Images/Image4.png">  <img src="/Images/Image4.png">
 
 Key characteristics of the data are being skewed and imbalanced. Some feature engineering are done to fix these issues which includes log-transformation and combining the income components, for example:
 
