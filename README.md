@@ -5,7 +5,7 @@ to increase their profit, they need to avoid bad lending. An automated loan proc
 
 The aim of this project is to develope an application for automating loan approval process. A supervised machine learning model is developed based on features extracted/engineered from the income/credit history, household situation and education level. The model is finally deployed on AWS EC2.
 
-Prior to developing the model, several exploratory data analyses are performed which can be found in "EDA" notebook, e.g.:
+Prior to developing the model, several exploratory data analyses are performed which can be found in "Main" notebook, e.g.:
 
 <img src="/Images/Image3.png">
 
@@ -19,5 +19,5 @@ Finally, the modeling pipeline are built using RandomForest. The model is then t
 
 <img src="/Images/Image5.png">
 
-You can find the dataset address in EDA notebook and follow the modeling steps.
+You can find the dataset address in Main notebook and follow the modeling steps.
 Interested or have questions? Please don't hesitate to comment here or contact me. Also, feel free to fork and contribute to the project...
